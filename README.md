@@ -1,0 +1,1 @@
+# blender-glb-shape-check
