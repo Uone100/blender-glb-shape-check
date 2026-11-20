@@ -2,7 +2,19 @@
 
 Compare a named Blender shape key with the exported GLB animation, frame by frame. Locate a missing target, missing clip, missing weight channel or a motionless export.
 
-**[Download the versioned ZIP](https://github.com/Uone100/blender-glb-shape-check/releases/latest)** · **[English tutorial and worked examples](TUTORIAL.md)**
+**[Download v0.1.0 ZIP](https://github.com/Uone100/blender-glb-shape-check/releases/download/v0.1.0/blender-glb-shape-check-0.1.0.zip)** · **[English tutorial and worked examples](TUTORIAL.md)** · [All releases](https://github.com/Uone100/blender-glb-shape-check/releases)
+
+![An animated comparison of the Blink weights in two real Blender GLB exports.](examples/blink-preview.gif)
+
+## Install for Codex in one command
+
+From your project, with Node.js 22.20 or newer:
+
+```sh
+npx skills add Uone100/blender-glb-shape-check -a codex
+```
+
+Start a new Codex session in that project. For standalone use, download the ZIP and follow the quickstart below.
 
 ## Quickstart
 
